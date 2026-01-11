@@ -11,3 +11,7 @@ https://github.com/Stormwindsky/Lists-of-templates-I-have-created
 # List of source code for my websites
 
 https://github.com/Stormwindsky/List-of-source-code-for-my-websites
+
+# Other
+
+https://github.com/Stormwindsky/List-of-other-things-I-have-created
