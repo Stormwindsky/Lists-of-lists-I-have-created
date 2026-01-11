@@ -15,6 +15,10 @@ https://github.com/Stormwindsky/List-of-source-code-for-my-websites
 
 https://github.com/Stormwindsky/Creation-list-for-scripts-for-ViolentMonkey
 
+# Python
+
+https://github.com/Stormwindsky/List-of-creations-I-made-or-fork-with-Python
+
 # Other
 
 https://github.com/Stormwindsky/List-of-other-things-I-have-created
