@@ -6,6 +6,10 @@ Please note that this list is licensed under CC0 1.0, but that does not mean tha
 
 https://github.com/Stormwindsky/Lists-of-templates-I-have-created
 
+# Kits (only CC0 1.0) 🐭🧰
+
+https://github.com/Stormwindsky/Kits-List
+
 
 # List of source code for my websites 🌐
 
