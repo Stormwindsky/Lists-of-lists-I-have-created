@@ -1,5 +1,5 @@
 # ![This is a Dragon Snake made by me under CC0 1.0](https://raw.githubusercontent.com/Stormwindsky/ArtLibre/main/ArtLibre/ArtLibre/files/Znak%20the%20Dragon%20Snake.svg) Lists of lists I have created 📝 ![This is a Dragon Snake made by me under CC0 1.0](https://raw.githubusercontent.com/Stormwindsky/ArtLibre/main/ArtLibre/ArtLibre/files/Znak%20the%20Dragon%20Snake.svg)
-Please note that this list is licensed under CC0 1.0, but that does not mean that all of my creations included in the lists are under the same license, except for the Templates.
+Please note that this list is licensed under CC0 1.0, but that does not mean that all of my creations included in the lists are under the same license, except for the Templates & Kits.
 
 
 # Templates (only CC0 1.0) 🐭
