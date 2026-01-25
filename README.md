@@ -8,8 +8,7 @@ https://github.com/Stormwindsky/Lists-of-templates-I-have-created
 
 # Starter Kits (only CC0 1.0) 🐭🧰
 
-https://github.com/Stormwindsky/Kits-List
-
+https://github.com/Stormwindsky/Starter-Kits-List
 
 # List of source code for my websites 🌐
 
