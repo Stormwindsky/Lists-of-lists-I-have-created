@@ -16,7 +16,7 @@ https://github.com/Stormwindsky/List-of-source-code-for-my-websites
 
 # UserScript's 🐵
 
-https://github.com/Stormwindsky/Creation-list-for-scripts-for-ViolentMonkey
+https://github.com/Stormwindsky/Creation-list-for-scripts-for-UserScripts
 
 # Python 🐍
 
