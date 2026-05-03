@@ -26,6 +26,10 @@ https://github.com/Stormwindsky/List-of-creations-I-made-or-fork-with-Python
 
 https://github.com/Stormwindsky/VG-List
 
+# Mods List 🛠️
+
+https://github.com/Stormwindsky/Mods-List
+
 # Other 🤔
 
 https://github.com/Stormwindsky/List-of-other-things-I-have-created
