@@ -30,6 +30,10 @@ https://github.com/Stormwindsky/VG-List
 
 https://github.com/Stormwindsky/Mods-List
 
+# ModPacks List 🛠️
+
+https://github.com/Stormwindsky/List-ModPacks
+
 # Other 🤔
 
 https://github.com/Stormwindsky/List-of-other-things-I-have-created
