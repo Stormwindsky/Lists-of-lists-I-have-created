@@ -34,6 +34,10 @@ https://github.com/Stormwindsky/Mods-List
 
 https://github.com/Stormwindsky/List-ModPacks
 
+# List of HTML & CSS & JS i made under CC0 1.0 🌐
+
+https://github.com/Stormwindsky/List-of-HTML-and-CSS-and-JS-i-made-under-CC0-1.0
+
 # Other 🤔
 
 https://github.com/Stormwindsky/List-of-other-things-I-have-created
