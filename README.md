@@ -30,6 +30,10 @@ https://github.com/Stormwindsky/List-of-creations-I-made-or-fork-with-Python
 
 https://github.com/Stormwindsky/VG-List
 
+# Homebrews 🏠 🍺
+
+https://github.com/Stormwindsky/Homebrews-Apps-And-Games-made-or-forked-by-me
+
 # Mods List 🛠️
 
 https://github.com/Stormwindsky/Mods-List
