@@ -6,7 +6,7 @@ DUE TO A MISTAKE ON MY PART—I THOUGHT THE CC0 1.0 LICENSE COULD ALSO BE USED F
 Please note that this list is licensed under MIT-0 & CC0 1.0 (for non codes thing), but that does not mean that all of my creations included in the lists are under the same license, except for the Templates & Kits.
 
 
-# Templates (only CC0 1.0) 🐭
+# Templates (only MIT-0 & CC0 1.0 (only from assets from CC0 1.0 bc yeah) ) 🐭
 
 https://github.com/Stormwindsky/Lists-of-templates-I-have-created
 
