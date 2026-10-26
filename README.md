@@ -34,6 +34,10 @@ https://github.com/Stormwindsky/VG-List
 
 https://github.com/Stormwindsky/Homebrews-Apps-And-Games-made-or-forked-by-me
 
+# SB3 Projects i upload outside of Scratch:
+
+COMING SOON :)
+
 # Mods List 🛠️
 
 https://github.com/Stormwindsky/Mods-List
