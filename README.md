@@ -10,7 +10,7 @@ Please note that this list is licensed under MIT-0 & CC0 1.0 (for non codes thin
 
 https://github.com/Stormwindsky/Lists-of-templates-I-have-created
 
-# Starter Kits (only CC0 1.0) 🐭🧰
+# Starter Kits (only CC0 1.0 / MIT-0) 🐭🧰
 
 https://github.com/Stormwindsky/Starter-Kits-List
 
